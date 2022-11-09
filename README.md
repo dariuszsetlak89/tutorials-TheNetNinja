@@ -11,3 +11,5 @@ Repository contains all tutorial projects I made by TheNetNinja, from which I wa
 4. Full Modern React Tutorial: React/modern-react-tutorial - 04.11.22 - [Link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
 
 5. Tailwind CSS Tutorial: HTML&CSS/tailwind-css-tutorial - 08.11.22 [Link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
+
+6. Tailwind Just in Time Tutorial: no repo files - 09.11.22 [Link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ht1OMQPhBVKAb2dVLhg-MJ)
