@@ -17,3 +17,5 @@ Repository contains all tutorial projects I made by TheNetNinja, from which I wa
 7. Next.js Tutorial for Beginners - 22.10.22 - [Link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw)
 
 8. Complete MongoDB Tutorial - 09.12.22 - [Link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA)
+
+9. Python 3 Tutorial for Beginners - 05.12.22 - [Link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK)
